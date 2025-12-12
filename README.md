@@ -7,7 +7,7 @@ Open-hardware tensile testing machine for plastics (ASTM D638). Project by Diego
 [![License: CERN-OHL-S v2](https://img.shields.io/badge/License-CERN--OHL--S%20v2-blue.svg)](LICENSE_CERN_OHL_S)
 
 Máquina de ensayo de tracción (UTM) para **plásticos**, orientada a piezas fabricadas por **manufactura aditiva (impresión 3D)** y diseñada para cumplir con los requerimientos de la norma **ASTM D638**.  
-Proyecto de **grado en Ingeniería Electromecánica** – UTN FR Chubut. :contentReference[oaicite:0]{index=0}  
+Proyecto de **grado en Ingeniería Electromecánica** – UTN FR Chubut.  
 
 > Autor: **Diego Víctor Saavedra Ravier**  
 > Año: **2025**  
