@@ -65,7 +65,7 @@ Actualmente el proyecto abarca el **diseño completo, cálculos, planos, costos 
 
 ## 📂 Estructura del repositorio
 
-> Nota: esta sección describe la estructura esperada. Puede actualizarse a medida que agregues más archivos.
+> Nota: esta sección describe la estructura de los archivos de este proyecto, puede variar.
 
 ```text
 tensile-testing-machine-astm-d638/
