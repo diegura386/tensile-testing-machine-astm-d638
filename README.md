@@ -25,7 +25,7 @@ Proyecto de **grado en Ingeniería Electromecánica** – UTN FR Chubut.
 
 ## 🧩 Descripción general
 
-Este proyecto presenta el **diseño y cálculo** de una máquina de ensayo de tracción para plásticos, enfocada en materiales utilizados en **impresión 3D** (FFF/FDM, SLA, SLS, etc.). La máquina busca ser:
+Este proyecto presenta el **diseño y cálculo** de una máquina de ensayo de tracción para todo tipo de plásticos, pero con mayor foco en materiales utilizados en **impresión 3D** (FFF/FDM, SLA, SLS, etc.). La máquina busca ser:
 
 - **Accesible y de bajo costo**
 - **Replicable** con recursos locales
