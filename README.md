@@ -55,7 +55,7 @@ Actualmente el proyecto abarca el **diseño completo, cálculos, planos, costos 
   - Sistema de transmisión con tornillo de potencia y caja reductora
   - Uso intensivo de análisis FEA en componentes críticos
 - **Componentes impresos en 3D:**  
-  - Caja reductora (varias iteraciones de diseño)  
+  - Caja reductora de 2 etapas con poleas y correas sincrónicas (i=8,16 T=11Nm)
   - Piezas auxiliares y de soporte  
 - **Sistema extensométrico propuesto:**  
   - **DIC** con Raspberry Pi + cámara de 108 MP Arducam  
