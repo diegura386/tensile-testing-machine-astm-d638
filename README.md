@@ -47,7 +47,8 @@ Actualmente el proyecto abarca el **diseño completo, cálculos, planos, costos 
 - **Capacidad de ensayo objetivo:** hasta **10 kN** (dimensionada para cubrir la mayoría de polímeros usados en impresión 3D)
 - **Ámbito de uso:**  
   - Laboratorios de universidades e institutos  
-  - Talleres y emprendimientos que utilizan manufactura aditiva  
+  - Talleres y emprendimientos que utilizan manufactura aditiva
+  - Industria del plástico
 - **Diseño estructural:**  
   - Marco tipo pórtico  
   - Sistema de transmisión con tornillo de potencia y caja reductora  
