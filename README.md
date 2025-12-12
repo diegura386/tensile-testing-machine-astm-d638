@@ -50,8 +50,9 @@ Actualmente el proyecto abarca el **diseño completo, cálculos, planos, costos 
   - Talleres y emprendimientos que utilizan manufactura aditiva
   - Industria del plástico
 - **Diseño estructural:**  
-  - Marco tipo pórtico  
-  - Sistema de transmisión con tornillo de potencia y caja reductora  
+  - Marco con caños estructurales
+  - Cruceta móvil en la parte superior de la máquina 
+  - Sistema de transmisión con tornillo de potencia y caja reductora
   - Uso intensivo de análisis FEA en componentes críticos
 - **Componentes impresos en 3D:**  
   - Caja reductora (varias iteraciones de diseño)  
