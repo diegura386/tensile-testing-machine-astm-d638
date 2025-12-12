@@ -17,8 +17,6 @@ Proyecto de **grado en Ingeniería Electromecánica** – UTN FR Chubut. :conten
 
 ## 📸 Vista general de la máquina
 
-> ⚠️ Ajusta la ruta y el nombre del archivo según donde subas tu imagen/render.
-
 <p align="center">
   <img src="documentation/img/vista%20con%20cubres.jpg" alt="Máquina de Ensayo de Tracción de Plásticos - Render frontal" width="480">
 </p>
