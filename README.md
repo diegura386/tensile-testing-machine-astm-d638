@@ -35,9 +35,9 @@ El diseño cumple con los requerimientos principales de la norma **ASTM D638** p
 
 - Limitación de la deformación propia de la máquina  
 - Correcta selección de celda de carga, transmisión, estructura, mordazas y accesorios  
-- Posibilidad de integrar un sistema extensométrico basado en **correlación digital de imágenes (DIC)** :contentReference[oaicite:1]{index=1}  
+- Posibilidad de integrar un sistema extensométrico basado en **correlación digital de imágenes (DIC)**
 
-Actualmente el proyecto abarca el **diseño completo, cálculos, planos, costos y propuesta de electrónica y control**, pero **no incluye la fabricación del prototipo físico**. :contentReference[oaicite:2]{index=2}  
+Actualmente el proyecto abarca el **diseño completo, cálculos, planos, costos y propuesta de electrónica y control**, pero **no incluye la fabricación del prototipo físico**.
 
 ---
 
@@ -51,13 +51,13 @@ Actualmente el proyecto abarca el **diseño completo, cálculos, planos, costos 
 - **Diseño estructural:**  
   - Marco tipo pórtico  
   - Sistema de transmisión con tornillo de potencia y caja reductora  
-  - Uso intensivo de análisis FEA en componentes críticos :contentReference[oaicite:3]{index=3}  
+  - Uso intensivo de análisis FEA en componentes críticos
 - **Componentes impresos en 3D:**  
   - Caja reductora (varias iteraciones de diseño)  
   - Piezas auxiliares y de soporte  
 - **Sistema extensométrico propuesto:**  
   - **DIC** con Raspberry Pi + cámara de 108 MP Arducam  
-  - Alternativas de software open source para el procesado de imágenes :contentReference[oaicite:4]{index=4}  
+  - Alternativas de software open source para el procesado de imágenes
 
 ---
 
