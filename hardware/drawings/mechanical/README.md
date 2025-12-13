@@ -52,9 +52,3 @@ Cada plano indica: pieza, conjunto al que pertenece, tipo de manufactura, peso u
 - El presente índice corresponde íntegramente al **Anexo F – Índice de planos** del Proyecto Final de Grado.  
 - Todos los planos están licenciados bajo **CERN–OHL–S v2 (Strongly Reciprocal)**.  
 - Para los modelos CAD completos, consultar el directorio `/hardware/cad/` y los enlaces DOI asociados.
-
----
-
-Si querés, te preparo la **tabla completa** con las 63 piezas ya formateadas (la puedo dividir en varias secciones si lo preferís para que no quede interminable).
-
-¿Querés el índice completo en Markdown o preferís dejarlo resumido?
