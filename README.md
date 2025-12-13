@@ -80,10 +80,12 @@ tensile-testing-machine-astm-d638/
 │   ├── anexos/                  # Anexos, tablas y material complementario
 │   └── img/                     # Renders, fotos y diagramas
 │
-├── hardware/                    # Hardware bajo CERN-OHL-S v2
-│   ├── cad/                     # Archivos CAD (ensambles y piezas)
-│   ├── drawings/                # Planos PDF/DWG/DXF
-│   ├── step/                    # Exportaciones neutrales (STEP, IGES)
+├── hardware/                    # Hardware bajo CERN-OHL-S v2          
+│   ├── cad/                     # Archivos CAD nativos (ensambles, piezas)          
+│   ├── drawings/                # Planos técnicos (PDF, DWG, DXF)          
+│   │   ├── mechanical/          # Planos mecánicos de conjuntos y piezas          
+│   │   └── electrical/          # Planos eléctricos de conjuntos y piezas           
+│   ├── step/                    # Exportaciones neutrales (STEP, IGES)          
 │   └── stl/                     # Archivos STL para impresión 3D
 │
 ├── LICENSE_CC_BY-SA             # Licencia para documentación (CC BY-SA 4.0)
