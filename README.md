@@ -67,6 +67,13 @@ Actualmente el proyecto abarca el diseño completo, cálculos, propuesta de elec
   - Alternativas de software open source para el procesado de imágenes
 
 ---
+### Estado del proyecto
+
+- ✅ Diseño y documentación completos
+- ⚙️ En espera de fabricación del prototipo
+- 📈 Abierto a mejoras y contribuciones
+
+---
 
 ## 📂 Estructura del repositorio
 
