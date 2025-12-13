@@ -84,6 +84,7 @@ tensile-testing-machine-astm-d638/
 │
 ├── documentation/               # Documentación bajo licencia (CC BY-SA 4.0)
 │   ├── informe.pdf              # Informe completo del Proyecto Final de Grado
+│   ├── defensa.pptx             # Diapositiva utilizada en la defensa del Proyecto Final de Grado
 │   ├── anexos/                  # Anexos, planillas y recursos complementarios
 │   └── img/                     # Renders, fotos y videos
 │
