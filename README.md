@@ -47,7 +47,7 @@ Actualmente el proyecto abarca el **diseño completo, cálculos, planos, costos 
 - **Capacidad de ensayo objetivo:** hasta **10 kN** (dimensionada para cubrir la mayoría de polímeros usados en impresión 3D)
 - **Rigidez:** **25,4[kN/mm]** (para cumplir con el requerimiento 5.1.6 de la norma)
 - **Peso de la máquina:** **75[kg]**
-- **Probetas:** **tipo (I, II, II, IV, V)
+- **Probetas:** **tipo (I, II, II, IV, V)**
 - **velocidad máxima:** **100[mm/min]**
 - **Ámbito de uso:**  
   - Laboratorios de universidades e institutos  
