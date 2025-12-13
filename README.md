@@ -45,6 +45,10 @@ Actualmente el proyecto abarca el **diseño completo, cálculos, planos, costos 
 
 - **Norma de referencia:** ASTM D638 (ensayo de tracción en plásticos)
 - **Capacidad de ensayo objetivo:** hasta **10 kN** (dimensionada para cubrir la mayoría de polímeros usados en impresión 3D)
+- **Rigidez:** **25,4[kN/mm]** (para cumplir con el requerimiento 5.1.6 de la norma)
+- **Peso de la máquina:** **75[kg]**
+- **Probetas:** **tipo (I, II, II, IV, V)
+- **velocidad máxima:** **100[mm/min]**
 - **Ámbito de uso:**  
   - Laboratorios de universidades e institutos  
   - Talleres y emprendimientos que utilizan manufactura aditiva
@@ -52,7 +56,7 @@ Actualmente el proyecto abarca el **diseño completo, cálculos, planos, costos 
 - **Diseño estructural:**  
   - Marco con caños estructurales
   - Cruceta móvil en la parte superior de la máquina 
-  - Sistema de transmisión con tornillo de potencia y caja reductora
+  - Sistema de transmisión con tornillos de potencia y caja reductora
   - Uso intensivo de análisis FEA en componentes críticos
 - **Componentes impresos en 3D:**  
   - Caja reductora de 2 etapas con poleas y correas sincrónicas (i=8,16 T=11Nm)
