@@ -75,12 +75,12 @@ Actualmente el proyecto abarca el diseño completo, cálculos, propuesta de elec
 ```text
 tensile-testing-machine-astm-d638/
 │
-├── documentation/               # Documentación bajo CC BY-SA 4.0
+├── documentation/               # Documentación bajo licencia (CC BY-SA 4.0)
 │   ├── informe.pdf              # Informe completo del Proyecto Final de Grado
-│   ├── anexos/                  # Anexos, tablas y material complementario
-│   └── img/                     # Renders, fotos y diagramas
+│   ├── anexos/                  # Anexos
+│   └── img/                     # Renders, fotos y videos
 │
-├── hardware/                    # Hardware bajo CERN-OHL-S v2          
+├── hardware/                    # Hardware bajo licencia (CERN-OHL-S v2)          
 │   ├── cad/                     # Archivos CAD nativos (ensambles, piezas)          
 │   ├── drawings/                # Planos técnicos (PDF, DWG, DXF)          
 │   │   ├── mechanical/          # Planos mecánicos de conjuntos y piezas          
