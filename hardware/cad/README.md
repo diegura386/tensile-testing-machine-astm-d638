@@ -39,11 +39,14 @@ Este paquete contiene:
 
 > 📝 **Este archivo no reemplaza el modelo CAD técnico**, sino que ofrece una representación visual más amigable para documentación, presentaciones y divulgación.
 
-### 🎬 Vista 360° generada en Blender
+### 🖼️ Imagen generada en Blender
 
-[![Ver video 360°](https://img.shields.io/badge/▶%20Reproducir%20Video-Informational?style=for-the-badge)](https://github.com/diegura386/tensile-testing-machine-astm-d638/blob/main/documentation/img/loop%20360.mp4?raw=1)
+<p align="center">
+  <img src="https://github.com/diegura386/tensile-testing-machine-astm-d638/blob/main/documentation/img/ensayando%20probeta%20tipo%20I.jpg?raw=1" width="450" />
+</p>
 
-> 📝 Haz clic en el botón para reproducir la animación 360°.  
+> 📝 Esta imagen fue generada en Blender y muestra una representación visual del proceso de ensayo de una probeta tipo I según ASTM D638.
+
 
 ---
 
