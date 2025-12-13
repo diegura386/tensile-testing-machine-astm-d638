@@ -41,9 +41,10 @@ Este paquete contiene:
 
 ### 🎬 Vista 360° generada en Blender
 
-<video src="https://github.com/diegura386/tensile-testing-machine-astm-d638/blob/main/documentation/img/loop%20360.mp4?raw=1" width="420" controls>
-  Your browser does not support the video tag.
-</video>
+[![Ver video 360°](https://img.shields.io/badge/▶%20Reproducir%20Video-Informational?style=for-the-badge)](https://github.com/diegura386/tensile-testing-machine-astm-d638/blob/main/documentation/img/loop%20360.mp4?raw=1)
+
+> 📝 Haz clic en el botón para reproducir la animación 360°.  
+
 ---
 
 ## 📁 Contenido de este directorio
