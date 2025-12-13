@@ -19,5 +19,6 @@ Este directorio GitHub contiene:
 - Archivos CAD individuales seleccionados
 - Modelos simplificados o derivados
 - Recursos complementarios al ensamble principal
+- Ensamble completo de la máquina en formato edrawing  (`.easm`)
 
 > ⚠️ **Nota:** Para abrir el proyecto completo en SolidWorks, es necesario descargar el paquete completo desde el DOI indicado.
