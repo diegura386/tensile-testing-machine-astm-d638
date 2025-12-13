@@ -39,6 +39,11 @@ Este paquete contiene:
 
 > 📝 **Este archivo no reemplaza el modelo CAD técnico**, sino que ofrece una representación visual más amigable para documentación, presentaciones y divulgación.
 
+### 🎬 Vista 360° generada en Blender
+
+<video src="https://github.com/diegura386/tensile-testing-machine-astm-d638/blob/main/documentation/img/loop%20360.mp4?raw=1" width="420" controls>
+  Your browser does not support the video tag.
+</video>
 ---
 
 ## 📁 Contenido de este directorio
@@ -51,4 +56,3 @@ Este directorio puede incluir archivos CAD livianos o derivados del modelo princ
 - Ensamble completo de la máquina para visualizar con eDrawing (`.easm`)
 
 Para abrir el diseño completo o generar renders avanzados, descargar los paquetes correspondientes desde los DOIs indicados arriba.
-
