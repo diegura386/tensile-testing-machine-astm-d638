@@ -57,6 +57,6 @@ Este directorio puede incluir archivos CAD livianos o derivados del modelo princ
 - Archivos CAD individuales (cuando no exceden el límite de GitHub)
 - Piezas simplificadas
 - Recursos auxiliares para referencia rápida
-- Ensamble completo de la máquina para visualizar con eDrawing (`.easm`)
+- Ensamble completo de la máquina para visualizar con eDrawings (`.easm`)
 
 Para abrir el diseño completo o generar renders avanzados, descargar los paquetes correspondientes desde los DOIs indicados arriba.
