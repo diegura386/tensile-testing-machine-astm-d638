@@ -1,17 +1,23 @@
-# Archivos CAD (SolidWorks)
+# ⚙️ Archivos CAD — SolidWorks
 
-Esta carpeta contiene archivos CAD individuales y documentación relacionada con el diseño de la máquina de ensayo de tracción.
+Bienvenido al directorio de CAD del proyecto **Tensile Testing Machine ASTM D638**.
 
-El **ensamble completo en SolidWorks (Pack and Go)** está disponible en Zenodo debido a su tamaño:
+## 📦 Ensamble completo (SolidWorks)
+El ensamble completo fue empaquetado con *Pack and Go* y se encuentra disponible en Zenodo:
 
-🔗 **DOI:** https://doi.org/10.5281/zenodo.17923969
+➡️ **Descargar (DOI):** https://doi.org/10.5281/zenodo.17923969
 
-El paquete incluye:
-
+## 📐 Contenido del paquete en Zenodo
 - Ensamble principal (`.SLDASM`)
-- Todas las piezas (`.SLDPRT`)
+- Piezas individuales (`.SLDPRT`)
 - Subensambles
 - Componentes de Toolbox
-- Estructura completa generada con *Pack and Go*
+- Estructura de carpetas restaurada
 
-Para reproducir el hardware, descargar el paquete desde el enlace anterior.
+## 📁 Contenido de este directorio
+Este directorio GitHub contiene:
+- Archivos CAD individuales seleccionados
+- Modelos simplificados o derivados
+- Recursos complementarios al ensamble principal
+
+> ⚠️ **Nota:** Para abrir el proyecto completo en SolidWorks, es necesario descargar el paquete completo desde el DOI indicado.
