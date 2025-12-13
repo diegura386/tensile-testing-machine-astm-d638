@@ -39,14 +39,14 @@ Este paquete contiene:
 
 > 📝 **Este archivo no reemplaza el modelo CAD técnico**, sino que ofrece una representación visual más amigable para documentación, presentaciones y divulgación.
 
-### 🖼️ Imagen generada en Blender
+### 🖼️ Imágenes generadas en Blender
 
 <p align="center">
-  <img src="https://github.com/diegura386/tensile-testing-machine-astm-d638/blob/main/documentation/img/ensayando%20probeta%20tipo%20I.jpg?raw=1" width="450" />
+  <img src="https://github.com/diegura386/tensile-testing-machine-astm-d638/blob/main/documentation/img/ensayando%20probeta%20tipo%20I.jpg?raw=1" width="425" />
+  <img src="https://github.com/diegura386/tensile-testing-machine-astm-d638/blob/main/documentation/img/vista%20sin%20cubres.jpg?raw=1" width="425" />
 </p>
 
-> 📝 Esta imagen fue generada en Blender y muestra una representación visual del proceso de ensayo de una probeta tipo I según ASTM D638.
-
+> 📝 Estas imágenes fueron generadas en Blender y muestran vistas representativas del diseño mecánico y del proceso de ensayo sin cubiertas.
 
 ---
 
