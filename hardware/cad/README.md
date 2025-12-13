@@ -46,7 +46,7 @@ Este paquete contiene:
   <img src="https://github.com/diegura386/tensile-testing-machine-astm-d638/blob/main/documentation/img/vista%20sin%20cubres.jpg?raw=1" height="400" />
 </p>
 
-> 📝 Estas imágenes fueron generadas en Blender y muestran vistas representativas del diseño mecánico y del proceso de ensayo sin cubiertas.
+> 📝 Estas imágenes fueron generadas en Blender y muestran vistas representativas del diseño mecánico y del proceso de ensayo.
 
 ---
 
