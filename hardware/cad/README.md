@@ -1,24 +1,54 @@
-# ⚙️ Archivos CAD — SolidWorks
+# ⚙️ Archivos CAD y Modelos 3D (SolidWorks & Blender)
 
-Bienvenido al directorio de CAD del proyecto **Tensile Testing Machine ASTM D638**.
+Este directorio contiene recursos CAD y modelos 3D utilizados en el diseño, visualización y documentación de la *Máquina de Ensayo de Tracción ASTM D638*.  
+Dado que algunos archivos exceden los límites de GitHub, los paquetes completos se distribuyen mediante Zenodo.
 
-## 📦 Ensamble completo (SolidWorks)
-El ensamble completo fue empaquetado con *Pack and Go* y se encuentra disponible en Zenodo:
+---
 
-➡️ **Descargar (DOI):** https://doi.org/10.5281/zenodo.17923969
+## 📦 Ensamble completo en SolidWorks (Pack and Go)
 
-## 📐 Contenido del paquete en Zenodo
+El ensamble CAD técnico, utilizado como base del diseño mecánico, está disponible en Zenodo:
+
+🔗 **DOI (SolidWorks):** https://doi.org/10.5281/zenodo.17924176
+
+Este paquete incluye:
+
 - Ensamble principal (`.SLDASM`)
 - Piezas individuales (`.SLDPRT`)
-- Subensambles
+- Subensambles completos
 - Componentes de Toolbox
-- Estructura de carpetas restaurada
+- Estructura íntegra generada mediante *Pack and Go*
+
+> ⚠️ **Nota:** Este es el modelo CAD técnico que representa la geometría real utilizada para cálculos, diseño estructural, selección de componentes y generación de planos.
+
+---
+
+## 🎨 Paquete Blender para renders y visualización
+
+El proyecto Blender utilizado para generar renders, animaciones y material visual complementario, se encuentra disponible en Zenodo:
+
+🔗 **DOI (Blervtools):** https://doi.org/10.5281/zenodo.17923969
+
+Este paquete contiene:
+
+- Archivo `.blend` con la escena completa
+- Materiales y texturas
+- Configuración de luces y cámaras
+- Colecciones organizadas para renderizado
+- Recursos visuales auxiliares
+
+> 📝 **Este archivo no reemplaza el modelo CAD técnico**, sino que ofrece una representación visual más amigable para documentación, presentaciones y divulgación.
+
+---
 
 ## 📁 Contenido de este directorio
-Este directorio GitHub contiene:
-- Archivos CAD individuales seleccionados
-- Modelos simplificados o derivados
-- Recursos complementarios al ensamble principal
-- Ensamble completo de la máquina en formato edrawing  (`.easm`)
 
-> ⚠️ **Nota:** Para abrir el proyecto completo en SolidWorks, es necesario descargar el paquete completo desde el DOI indicado.
+Este directorio puede incluir archivos CAD livianos o derivados del modelo principal, tales como:
+
+- Archivos CAD individuales (cuando no exceden el límite de GitHub)
+- Piezas simplificadas
+- Recursos auxiliares para referencia rápida
+- Ensamble completo de la máquina para visualizar con eDrawing (`.easm`)
+
+Para abrir el diseño completo o generar renders avanzados, descargar los paquetes correspondientes desde los DOIs indicados arriba.
+
