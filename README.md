@@ -49,7 +49,7 @@ Actualmente el proyecto abarca el diseño completo, cálculos, propuesta de elec
 - **Rigidez:** **25,4[kN/mm]** (para cumplir con el requerimiento 5.1.6 de la norma)
 - **Peso de la máquina:** **75[kg]**
 - **Probetas:** **tipo (I, II, III, IV, V)**
-- **velocidad máxima:** **100[mm/min]**
+- **Velocidad máxima:** **100[mm/min]**
 - **Ámbito de uso:**  
   - Laboratorios de universidades e institutos  
   - Talleres y emprendimientos que utilizan manufactura aditiva
