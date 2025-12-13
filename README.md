@@ -38,7 +38,7 @@ El diseño cumple con los requerimientos principales de la norma **ASTM D638** p
 - Correcta selección de celda de carga, transmisión, estructura, mordazas y accesorios  
 - Posibilidad de integrar un sistema extensométrico basado en **correlación digital de imágenes (DIC)**
 
-Actualmente el proyecto abarca el **diseño completo, cálculos, planos, costos y propuesta de electrónica y control**, pero **no incluye la fabricación del prototipo físico**.
+Actualmente el proyecto abarca el **diseño completo, cálculos, propuesta de electrónica y control, planos, listado de materiales (BOM) y costos de fabricación**. **No se incluye la fabricación del prototipo físico**.
 
 ---
 
