@@ -39,7 +39,8 @@ El directorio **`anexos/`** contiene material complementario al informe:
 El directorio **`img/`** incluye imágenes y renders utilizados tanto en el informe como en la presentación:
 
 - renders creados en Blender     
-- material visual del proyecto  
+- material visual del proyecto
+- material visual para este repositorio
 
 ---
 
@@ -49,8 +50,8 @@ Esta carpeta contiene la documentación narrativa y visual del proyecto.
 Para acceder al hardware abierto y sus fuentes:
 
 - **Modelos CAD y Blender** (Zenodo):  
-  - SolidWorks Pack & Go → https://doi.org/10.5281/zenodo.17924176  
-  - Blender Visualization Package → https://doi.org/10.5281/zenodo.17923969  
+  - SolidWorks Pack & Go → https://doi.org/10.5281/zenodo.17923969
+  - Blender Visualization Package → https://doi.org/10.5281/zenodo.17924176
 
 - **Archivos técnicos dentro del repositorio:**  
   - `/hardware/cad/`  
