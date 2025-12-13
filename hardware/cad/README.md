@@ -9,7 +9,7 @@ Dado que algunos archivos exceden los límites de GitHub, los paquetes completos
 
 El ensamble CAD técnico, utilizado como base del diseño mecánico, está disponible en Zenodo:
 
-🔗 **DOI (SolidWorks):** https://doi.org/10.5281/zenodo.17924176
+🔗 **DOI (SolidWorks):** https://doi.org/10.5281/zenodo.17923969
 
 Este paquete incluye:
 
@@ -27,7 +27,7 @@ Este paquete incluye:
 
 El proyecto Blender utilizado para generar renders, animaciones y material visual complementario, se encuentra disponible en Zenodo:
 
-🔗 **DOI (Blervtools):** https://doi.org/10.5281/zenodo.17923969
+🔗 **DOI (Blender):** https://doi.org/10.5281/zenodo.17924176 
 
 Este paquete contiene:
 
