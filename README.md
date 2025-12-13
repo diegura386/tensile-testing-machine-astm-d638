@@ -6,7 +6,7 @@ Open-hardware tensile testing machine for plastics (ASTM D638). Project by Diego
 [![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)](LICENSE_CC_BY-SA)
 [![License: CERN-OHL-S v2](https://img.shields.io/badge/License-CERN--OHL--S%20v2-blue.svg)](LICENSE_CERN_OHL_S)
 
-Máquina de ensayo de tracción (UTM) para **plásticos**, orientada a piezas fabricadas por **manufactura aditiva (impresión 3D)** y diseñada para cumplir con los requerimientos de la norma **ASTM D638** para garantizar obtener ensayos válidos y comparables con otras máquinas bajo el mismo estandar. 
+Máquina de ensayo de tracción (UTM) para **plásticos**, orientada a piezas fabricadas por **manufactura aditiva (impresión 3D)** y diseñada para cumplir con los requerimientos de la norma **ASTM D638** para garantizar obtener ensayos válidos y comparables con otras máquinas bajo el mismo estándar. 
 
 Proyecto de **grado en Ingeniería Electromecánica** – UTN FR Chubut.  
 
