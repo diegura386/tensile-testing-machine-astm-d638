@@ -89,8 +89,7 @@ tensile-testing-machine-astm-d638/
 │   └── img/                     # Renders, fotos y videos
 │
 ├── hardware/                    # Hardware bajo licencia (CERN-OHL-S v2)          
-│   ├── cad/                     # Archivos CAD nativos (ensambles, piezas)  [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17923969.svg)](https://doi.org/10.5281/zenodo.17923969)
-       
+│   ├── cad/                     # Archivos CAD nativos (ensambles, piezas)       
 │   ├── drawings/                # Planos técnicos (PDF, DWG, DXF)          
 │   │   ├── mechanical/          # Planos mecánicos de conjuntos y piezas          
 │   │   └── electrical/          # Planos eléctricos de conjuntos y piezas           
