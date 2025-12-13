@@ -38,13 +38,13 @@ El diseño cumple con los requerimientos principales de la norma **ASTM D638** p
 - Correcta selección de celda de carga, transmisión, estructura, mordazas y accesorios  
 - Posibilidad de integrar un sistema extensométrico basado en **correlación digital de imágenes (DIC)**
 
-Actualmente el proyecto abarca el **diseño completo, cálculos, propuesta de electrónica y control, planos, listado de materiales (BOM) y costos de fabricación**. **No se incluye la fabricación del prototipo físico**.
+Actualmente el proyecto abarca el diseño completo, cálculos, propuesta de electrónica y control, planos, listado de materiales (BOM) y costos de fabricación. No se incluye la fabricación del prototipo físico.
 
 ---
 
 ## 🔧 Características principales
 
-- **Norma de referencia:** ASTM D638 (ensayo de tracción en plásticos)
+- **Norma de referencia:** **ASTM D638** (ensayo de tracción en plásticos)
 - **Capacidad de ensayo objetivo:** hasta **10 kN** (dimensionada para cubrir la mayoría de polímeros usados en impresión 3D)
 - **Rigidez:** **25,4[kN/mm]** (para cumplir con el requerimiento 5.1.6 de la norma)
 - **Peso de la máquina:** **75[kg]**
