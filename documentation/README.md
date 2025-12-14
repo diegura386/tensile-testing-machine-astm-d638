@@ -2,7 +2,7 @@
 
 Este directorio reúne toda la documentación asociada al Proyecto Final de Grado en Ingeniería Electromecánica:
 
-**“Máquina de ensayo de tracción de plásticos”** Diseño y cálculos según norma ASTM D638
+**Máquina de ensayo de tracción de plásticos** *Diseño y cálculos según norma ASTM D638*
 
 Incluye el informe completo, anexos, recursos gráficos y la presentación utilizada en la defensa.
 
