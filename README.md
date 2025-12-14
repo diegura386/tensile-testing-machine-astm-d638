@@ -10,7 +10,7 @@ Máquina de ensayo de tracción (UTM) para **plásticos**, orientada a piezas fa
 
 Proyecto de **grado en Ingeniería Electromecánica** – UTN FR Chubut.  
 
-> Título académico: **Máquina de ensayo de tracción de plásticos** *Diseño y cálculo según norma ASTM D638*
+> Título académico: **Máquina de ensayo de tracción de plásticos** *Diseño y cálculo según norma ASTM D638* 
 > Autor: **Diego Víctor Saavedra Ravier** 
 > Año: **2025**  
 > Licencias: **CC BY-SA 4.0** (documentación) y **CERN-OHL-S v2** (hardware)
