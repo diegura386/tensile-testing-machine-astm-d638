@@ -36,7 +36,7 @@ Este proyecto presenta el **diseño y cálculo** de una máquina de ensayo de tr
 - **Replicable** con recursos locales
 - **Documentada y abierta** para la comunidad académica y maker
 
-El diseño cumple con los requerimientos principales de la norma **ASTM D638** para probetas tipo “dog bone”, poniendo especial énfasis en:
+El diseño cumple con los requerimientos principales de la norma **ASTM D638** (norma empleada para realizar ensayos de tracción de plásticos) para probetas tipo “dog bone”, poniendo especial énfasis en:
 
 - Limitación de la deformación propia de la máquina  
 - Correcta selección de celda de carga, transmisión, estructura, mordazas y accesorios  
