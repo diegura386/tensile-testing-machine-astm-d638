@@ -15,6 +15,7 @@ Proyecto de **grado en Ingeniería Electromecánica** – UTN FR Chubut.
 > Autor: **Diego Víctor Saavedra Ravier** 
 
 > Año: **2025**  
+
 > Licencias: **CC BY-SA 4.0** (documentación) y **CERN-OHL-S v2** (hardware)
 
 ---
