@@ -16,13 +16,14 @@ Proyecto de **grado en Ingeniería Electromecánica** – UTN FR Chubut.
 > Año: **2025**  
 
 > Licencias: **CC BY-SA 4.0** (documentación) y **CERN-OHL-S v2** (hardware)
+> [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17923969.svg)](https://doi.org/10.5281/zenodo.17923969)
 
 ---
 
 ## 📸 Vista general de la máquina
 
 <p align="center">
-  <img src="documentation/img/vista%20con%20cubres.jpg" alt="Máquina de Ensayo de Tracción de Plásticos - Render frontal" width="480">
+  <img src="hardware/img/vista%20con%20cubres.jpg" alt="Máquina de Ensayo de Tracción de Plásticos - Render frontal" width="480">
 </p>
 
 ---
