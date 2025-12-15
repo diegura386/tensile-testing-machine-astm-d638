@@ -17,7 +17,7 @@ Proyecto de **grado en Ingeniería Electromecánica** – UTN FR Chubut.
 
 > Licencias: **CC BY-SA 4.0** (documentación) y **CERN-OHL-S v2** (hardware)
 
-> Documentación completa al trabajo: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17923969.svg)](https://doi.org/10.5281/zenodo.17923969)
+> Documentación completa al trabajo   ➟   [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17923969.svg)](https://doi.org/10.5281/zenodo.17923969)
 
 ---
 
