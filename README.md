@@ -63,11 +63,12 @@ Actualmente el proyecto abarca el diseño completo, cálculos, propuesta de elec
 - **Diseño estructural:**  
   - Marco con caños estructurales
   - Cruceta móvil en la parte superior de la máquina 
-  - Sistema de transmisión con tornillos de potencia y caja reductora
-  - Uso intensivo de análisis FEA en componentes críticos
+  - Sistema de transmisión con tornillos de potencia trapezoidal (TR20x4) y caja reductora con poleas y correas sincrónicas (perfil XL-L)
+  - Mordazas del tipo cuñas con palanca y resortes (Wedge Grip)
+  - Uso intensivo de análisis FEA en componentes críticos para garantizar un FDS>2 a máxima capacidad de la máquina
 - **Componentes impresos en 3D:**  
   - Caja reductora de 2 etapas con poleas y correas sincrónicas (i=8,16 T=11Nm)
-  - Piezas auxiliares y de soporte  
+  - Piezas auxiliares y de soporte
 - **Sistema extensométrico propuesto:**  
   - **DIC** con Raspberry Pi + cámara de 108 MP Arducam  
   - Alternativas de software open source para el procesado de imágenes
