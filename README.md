@@ -103,7 +103,7 @@ tensile-testing-machine-astm-d638/
 │   ├── cad/                     # Archivos CAD nativos (ensambles, piezas)       
 │   ├── drawings/                # Planos técnicos (PDF, DWG, DXF)          
 │   │   ├── mechanical/          # Planos mecánicos de conjuntos y piezas          
-│   │   └── electrical/          # Planos eléctricos de conjuntos y piezas
+│   │   └── electrical/          # Planos eléctricos con esquema de componentes, topográfico y conexionado
 │   ├── img/                     # Imágenes y renders de la máquina  
 │   ├── step/                    # Exportaciones neutrales (STEP, IGES)          
 │   └── stl/                     # Archivos STL para impresión 3D
