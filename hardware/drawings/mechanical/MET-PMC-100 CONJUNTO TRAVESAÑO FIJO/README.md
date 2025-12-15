@@ -1,7 +1,4 @@
-# 📐 Planos Mecánicos del conjunto **TRAVESAÑO FIJO** 
-
-Este directorio contiene los planos mecánicos de la *Máquina de Ensayo de Tracción para Plásticos según ASTM D638*, correspondientes al **Anexo F – Índice de Planos** del Proyecto Final de Grado.  
-A continuación se presenta el **índice oficial de planos**, incluyendo planos de conjuntos y planos de piezas.
+# 📐 Planos de piezas del conjunto **MET-PMC-100 TRAVESAÑO FIJO** 
 
 ---
 
@@ -24,6 +21,5 @@ A continuación se presenta el **índice oficial de planos**, incluyendo planos 
 
 ## 📄 Notas
 
-- El presente índice corresponde íntegramente al **Anexo F – Índice de planos** del Proyecto Final de Grado.  
 - Todos los planos están licenciados bajo **CERN–OHL–S v2 (Strongly Reciprocal)**.  
 - Para los modelos CAD completos, consultar el directorio `/hardware/cad/` y los enlaces DOI asociados.
