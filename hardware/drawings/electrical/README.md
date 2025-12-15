@@ -4,10 +4,10 @@
 
 ## ⚡ Planos
 
-| Nº | ID Plano     | Nombre Pieza                                  | Conjunto         | Formato |
-|---:|--------------|-----------------------------------------------|------------------|---------|
-| 1  | MET-PE-001  | Componentes eléctricos - Topográfico y cableados| MET-PMC-100      |  A1      |
-| 2  | MET-PE-001  | Conexionado eléctrico - esquema eléctrico       | MET-PMC-100      | A2      |
+| Nº | ID Plano     | Nombre Pieza                                  |  Formato |
+|---:|--------------|-----------------------------------------------|---------|
+| 1  | MET-PE-001  | Componentes eléctricos - Topográfico y cableados| A2      |
+| 2  | MET-PE-002  | Conexionado eléctrico - esquema eléctrico       |  A2      |
 
 ---
 
