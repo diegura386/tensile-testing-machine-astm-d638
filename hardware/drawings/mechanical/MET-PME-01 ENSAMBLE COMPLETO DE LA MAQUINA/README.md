@@ -1,4 +1,4 @@
-# 📐 Planos de piezas del plano **MET-PME-01 ENSAMBLE COMPLETO DE LA MAQUINA** 
+# 📐 Planos de piezas del ENSAMBLE COMPLETO DE LA MAQUINA **MET-PME-01** 
 
 ---
 
