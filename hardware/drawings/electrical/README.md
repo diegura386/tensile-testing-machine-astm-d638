@@ -7,7 +7,7 @@
 | Nº | ID Plano     | Nombre Pieza                                  |  Formato |
 |---:|--------------|-----------------------------------------------|---------|
 | 1  | MET-PE-001  | Componentes eléctricos - Topográfico y cableados| A2      |
-| 2  | MET-PE-002  | Conexionado eléctrico - esquema eléctrico       |  A2      |
+| 2  | MET-PE-002  | Conexionado eléctrico - Esquema eléctrico       |  A2      |
 
 ---
 
