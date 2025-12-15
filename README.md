@@ -76,7 +76,7 @@ Actualmente el proyecto abarca el diseño completo, cálculos, propuesta de elec
 ### Estado del proyecto
 
 - ✅ Diseño y documentación completos
-- ⚙️ En espera de fabricación del prototipo
+- ⚙️ En espera que alguien se anime a fabricar el prototipo
 - 📈 Abierto a mejoras y contribuciones
 
 ---
@@ -87,12 +87,6 @@ Actualmente el proyecto abarca el diseño completo, cálculos, propuesta de elec
 
 ```text
 tensile-testing-machine-astm-d638/
-│
-├── documentation/               # Documentación bajo licencia (CC BY-SA 4.0)
-│   ├── informe.pdf              # Informe completo del Proyecto Final de Grado
-│   ├── defensa.pptx             # Diapositiva utilizada en la defensa del Proyecto Final de Grado
-│   ├── anexos/                  # Anexos, planillas y recursos complementarios
-│   └── img/                     # Renders, fotos y videos
 │
 ├── hardware/                    # Hardware bajo licencia (CERN-OHL-S v2)          
 │   ├── cad/                     # Archivos CAD nativos (ensambles, piezas)       
