@@ -3,11 +3,11 @@ Open-hardware tensile testing machine for plastics (ASTM D638). Project by Diego
 
 # Máquina de Ensayo de Tracción de Plásticos (ASTM D638)
 
-[![License: CERN-OHL-S v2](https://img.shields.io/badge/License-CERN--OHL--S%20v2-blue.svg)](LICENSE_CERN_OHL_S) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17923969.svg)](https://doi.org/10.5281/zenodo.17923969)
+[![License: CERN-OHL-S v2](https://img.shields.io/badge/License-CERN--OHL--S%20v2-blue.svg)](LICENSE_CERN_OHL_S)
 
 Máquina de ensayo de tracción (UTM) para **plásticos**, orientada a piezas fabricadas por **manufactura aditiva (impresión 3D)** y diseñada para cumplir con los requerimientos de la norma **ASTM D638** para garantizar obtener ensayos válidos y comparables con otras máquinas bajo el mismo estándar.
 
-Proyecto de **grado en Ingeniería Electromecánica** – UTN FR Chubut.  
+Proyecto de **grado en Ingeniería Electromecánica** – UTN FR Chubut.
 
 > Título académico: **Máquina de ensayo de tracción de plásticos** *Diseño y cálculo según norma ASTM D638*
 
@@ -16,6 +16,7 @@ Proyecto de **grado en Ingeniería Electromecánica** – UTN FR Chubut.
 > Año: **2025**  
 
 > Licencias: **CC BY-SA 4.0** (documentación) y **CERN-OHL-S v2** (hardware)
+> Documentación completa al trabajo: ➡️ [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17923969.svg)](https://doi.org/10.5281/zenodo.17923969)
 
 ---
 
