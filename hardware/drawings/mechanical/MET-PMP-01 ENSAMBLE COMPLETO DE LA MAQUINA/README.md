@@ -2,19 +2,6 @@
 
 ---
 
-## 🧩 Planos de Conjuntos
-
-| Nº | ID Plano     | Nombre Conjunto                           | Formato |
-|---:|--------------|---------------------------------------------|---------|
-| 1  | MET-PME-01   | Ensamble completo de la máquina            | A1      |
-| 2  | MET-PMC-100  | Conjunto travesaño fijo                    | A2      |
-| 3  | MET-PMC-200  | Conjunto travesaño móvil                   | A2      |
-| 4  | MET-PMC-300  | Conjunto mordaza                           | A2      |
-| 5  | MET-PMC-400  | Conjunto caja reductora                    | A2      |
-| 6  | MET-PMC-500  | Conjunto estructura soporte                | A2      |
-| 7  | MET-PMC-600  | Conjunto riel porta fines de carrera       | A2      |
-| 8  | MET-PMC-800  | Conjuntos cubres y protectores             | A2      |
-
 ## 🔩 Planos de Piezas
 
 | Nº | ID Plano     | Nombre Pieza                                  | Conjunto         | Manufactura                          | Peso (g) | Cant. | Total (g) | Formato |
