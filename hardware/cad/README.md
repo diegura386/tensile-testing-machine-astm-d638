@@ -9,7 +9,7 @@ Dado que algunos archivos exceden los límites de GitHub, los paquetes completos
 
 El ensamble CAD técnico, utilizado como base del diseño mecánico, está disponible en Zenodo:
 
-🔗 **DOI (SolidWorks):** https://doi.org/10.5281/zenodo.17923969
+🔗 **DOI (SolidWorks):** ➠ [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17923969.svg)](https://doi.org/10.5281/zenodo.17923969)
 
 Este paquete incluye:
 
@@ -27,7 +27,7 @@ Este paquete incluye:
 
 El proyecto Blender utilizado para generar renders, animaciones y material visual complementario, se encuentra disponible en Zenodo:
 
-🔗 **DOI (Blender):** https://doi.org/10.5281/zenodo.17924176 
+🔗 **DOI (Blender):** ➠ [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17923969.svg)](https://doi.org/10.5281/zenodo.17924176) 
 
 Este paquete contiene:
 
@@ -42,8 +42,8 @@ Este paquete contiene:
 ### 🖼️ Imágenes generadas en Blender
 
 <p align="center">
-  <img src="https://github.com/diegura386/tensile-testing-machine-astm-d638/blob/main/documentation/img/ensayando%20probeta%20tipo%20I.jpg?raw=1" height="400" />
-  <img src="https://github.com/diegura386/tensile-testing-machine-astm-d638/blob/main/documentation/img/vista%20sin%20cubres.jpg?raw=1" height="400" />
+  <img src="https://github.com/diegura386/tensile-testing-machine-astm-d638/blob/main/hardware/img/ensayando%20probeta%20tipo%20I.jpg?raw=1" height="400" />
+  <img src="https://github.com/diegura386/tensile-testing-machine-astm-d638/blob/main/hardware/img/vista%20sin%20cubres.jpg?raw=1" height="400" />
 </p>
 
 > 📝 Estas imágenes fueron generadas en Blender y muestran vistas representativas del diseño mecánico y del proceso de ensayo.
