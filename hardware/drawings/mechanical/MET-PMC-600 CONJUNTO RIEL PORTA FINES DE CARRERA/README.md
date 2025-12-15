@@ -9,7 +9,6 @@
 | 56 | MET-PMP-601  | Porta riel                                    | MET-PMC-600      | Manufactura aditiva                   | 25       | 2     | 50        | A3      |
 | 57 | MET-PMP-602  | Porta fin de carrera                          | MET-PMC-600      | Manufactura aditiva                   | 26       | 2     | 52        | A3      |
 | 58 | MET-PMP-603  | Porta cámara                                  | MET-PMC-600      | Manufactura aditiva                   | 30       | 1     | 30        | A3      |
-| 59 | MET-PMP-801  | Panel cubre lateral izquierdo                 | MET-PMC-800      | CNC Láser                             | 56       | 1     | 56        | A3      |
 
 ---
 
