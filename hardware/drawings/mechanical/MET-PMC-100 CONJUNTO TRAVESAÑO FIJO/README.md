@@ -1,5 +1,0 @@
-<p align="center">
-  <img src="https://github.com/diegura386/tensile-testing-machine-astm-d638/blob/main/hardware/drawings/mechanical/MET-PMC-100%20CONJUNTO%20TRAVESAÑO%20FIJO/MET-PMC-100.jpg?raw=1" 
-       alt="Plano MET-PMC-100 - Conjunto Travesaño Fijo">
-</p>
-
