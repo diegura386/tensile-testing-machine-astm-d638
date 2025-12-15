@@ -82,12 +82,12 @@ Actualmente el proyecto abarca el diseño completo, cálculos, propuesta de elec
 ---
 ### 🎯 Objetivo del proyecto
 
-- ⚙️ Fabricacion del primer prototipo
+- ⚙️ Fabricación del primer prototipo
 - ⚙️ Feedback de parte de la comunidad respecto a mejoras o revisiones
-- ⚙️ Desarrollar una variante de esta máquina de traccion para realizar otro tipo de ensayos, como **flexion**, **compresion**, o incluso para traccionar madera de acuerdo a norma **ASTM D143**
+- ⚙️ Desarrollar una variante de esta máquina de tracción para realizar otro tipo de ensayos, como **flexión**, **compresión**, o incluso para traccionar madera de acuerdo a norma **ASTM D143**
 - 📈 Feedback de parte de la comunidad respecto a mejoras a realizar en la **caja reductora**, para elevar el torque resultante o incluso implementar una 3ra etapa para triplicar el torque hasta más de 30Nm (ver sección 5.2.1 del informe ➠  [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17923969.svg)](https://doi.org/10.5281/zenodo.17923969))
-- 🔌 Posibilidad de implementar una integracion de software y control de la máquina, dedicado a este proyecto
-- 💡 Desarrollar el método de ensayo de traccion sin el uso de un extensometro (ver sección 6.8 del informe  ➠  [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17923969.svg)](https://doi.org/10.5281/zenodo.17923969)) 
+- 🔌 Posibilidad de implementar una integración de software y control de la máquina, dedicado a este proyecto
+- 💡 Desarrollar el método de ensayo de tracción sin el uso de un extensómetro (ver sección 6.8 del informe  ➠  [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17923969.svg)](https://doi.org/10.5281/zenodo.17923969)) 
 
 
 ---
