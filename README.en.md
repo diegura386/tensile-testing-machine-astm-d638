@@ -109,10 +109,10 @@ and manufacturing cost estimation. **The physical prototype has not yet been man
   **ASTM D143**
 - 📈 Community feedback on improvements to the **reduction gearbox**, aiming to
   increase output torque or implement a third stage to exceed 30 Nm
-  (see Section 5.2.1 of the report ➠ [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17923969.svg)](https://doi.org/10.5281/zenodo.17945725))
+  (see Section 5.2.1 of the report ➠ [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17923969.svg)](https://doi.org/10.5281/zenodo.17945725) )
 - 🔌 Potential development of dedicated software and control integration for the machine
 - 💡 Development of a tensile testing methodology without using a physical extensometer
-  (see Section 6.8 of the report ➠ [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17923969.svg)](https://doi.org/10.5281/zenodo.17945725))
+  (see Section 6.8 of the report ➠ [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17923969.svg)](https://doi.org/10.5281/zenodo.17945725) )
 
 ---
 
