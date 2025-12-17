@@ -110,5 +110,6 @@ tensile-testing-machine-astm-d638/
 │
 ├── LICENSE_CERN_OHL_S           # Licencia para hardware (CERN-OHL-S v2)
 └── README.md                    # Este archivo
-
+```
+---
    🇬🇧 [Read this README in English](README.en.md)
