@@ -1,5 +1,6 @@
 # tensile-testing-machine-astm-d638
-Open-hardware tensile testing machine for plastics (ASTM D638). Project by Diego Víctor Saavedra Ravier.   ➠   🇬🇧 [Read this README in English](README.en.md)
+Open-hardware tensile testing machine for plastics (ASTM D638). Project by Diego Víctor Saavedra Ravier.
+🇬🇧 [Read this README in English](README.en.md)
 
 # Máquina de Ensayo de Tracción de Plásticos (ASTM D638)
 
