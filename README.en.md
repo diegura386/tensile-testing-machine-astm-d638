@@ -22,8 +22,7 @@ machines operating under the same standard.
 
 > Licenses: **CC BY-SA 4.0** (documentation) and **CERN-OHL-S v2** (hardware)
 
-> Complete project documentation ➠  
-> [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17923969.svg)](https://doi.org/10.5281/zenodo.17945725)
+> Complete project documentation ➠ [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17923969.svg)](https://doi.org/10.5281/zenodo.17945725)
 
 ---
 
